@@ -49,8 +49,6 @@
 
 ## 6. 聯絡方式
 如有隱私相關問題，請聯絡：
-- Firebase Authentication（用於用戶認證）
-- Cloud Firestore（用於資料儲存）
 - LINE 官方帳號：@643emrqp
 - 電子郵件：chenhsi8045@gmail.com
 
